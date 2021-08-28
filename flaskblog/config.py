@@ -7,5 +7,5 @@ class Config:
     MAIL_SERVER = 'smtp.googlemail.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
-    MAIL_USERNAME = 'sa1903@srmist.edu.in'
-    MAIL_PASSWORD = 'SRMWorld@#13978151'
+    MAIL_USERNAME = 'akash@akash.com'
+    MAIL_PASSWORD = 'password'
